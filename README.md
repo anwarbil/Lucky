@@ -2,11 +2,9 @@
 
 ## Usage
 
-This Exploit (https://www.exploit-db.com/exploits/764/) is outdated. Here you can take updated
-
 1. Download OpenLuck.c
 ```
-git clone https://github.com/heltonWernik/Lucky.git
+git clone https://github.com/anwarbil/Lucky.git
 ```
 2. Install ssl-dev library
 
